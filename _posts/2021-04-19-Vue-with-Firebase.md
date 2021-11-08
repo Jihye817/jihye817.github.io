@@ -1,5 +1,9 @@
-# vue와 firebase 연동하기
-
+---
+layout: post
+title:  "Vue와 Firebase 연동하기"
+date:   2021-04-19 16:50:00 +0900
+categories: jekyll update
+---
 ## firebase에 웹 연동하기
 
 ### 준비 단계
